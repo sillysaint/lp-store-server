@@ -1,6 +1,6 @@
 {
   "name": "lp-store-server",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "description": "License plate store server for tech training purposes",
   "main": "solutions/index.js",
   "dependencies": {
